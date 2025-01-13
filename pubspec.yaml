@@ -1,5 +1,5 @@
 name: payfast_module
-description: A new Flutter module project.
+description: An Android Library to integrate PayFast payments into your app.
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -84,5 +84,5 @@ flutter:
   # identifiers, which may be completely independent or the same as these.
   module:
     androidX: true
-    androidPackage: com.example.payfast_module
-    iosBundleIdentifier: com.example.payfastModule
+    androidPackage: za.co.permanentlink.payfast
+    iosBundleIdentifier: za.co.permanentlink.payfast
